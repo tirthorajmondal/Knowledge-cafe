@@ -1,0 +1,53 @@
+[
+    {
+      "id": 201,
+      "cover": "https://i.ibb.co/JHYmSrR/photo-1524666643752-b381eb00effb.jpg",
+      "title": "mastering python",
+      "author": "alex turner",
+      "author_img": "https://randomuser.me/api/portraits/men/75.jpg",
+      "posted_time": "2024-07-20 14:30:00",
+      "hashtags": "#python #programming #coding",
+      "reading_time": 10
+    },
+    {
+      "id": 202,
+      "cover": "https://i.ibb.co/NYC60rm/photo-1488590528505-98d2b5aba04b.jpg",
+      "title": "the art of algorithms",
+      "author": "lisa wong",
+      "author_img": "https://randomuser.me/api/portraits/men/76.jpg",
+      "posted_time": "2024-07-22 09:15:00",
+      "hashtags": "#algorithms #datastructures #computerscience",
+      "reading_time": 8
+    },
+    {
+      "id": 203,
+      "cover": "https://i.ibb.co/QXvL6gN/photo-1423666639041-f56000c27a9a.jpg",
+      "title": "web development essentials",
+      "author": "mike johnson",
+      "author_img": "https://randomuser.me/api/portraits/men/77.jpg",
+      "posted_time": "2024-07-25 18:45:00",
+      "hashtags": "#webdevelopment #html #css #javascript",
+      "reading_time": 12
+    },
+    {
+      "id": 204,
+      "cover": "https://i.ibb.co/crbTqg1/photo-1607798748738-b15c40d33d57.jpg",
+      "title": "cloud computing 101",
+      "author": "emma davis",
+      "author_img": "https://randomuser.me/api/portraits/men/78.jpg",
+      "posted_time": "2024-07-27 12:00:00",
+      "hashtags": "#cloudcomputing #aws #azure",
+      "reading_time": 9
+    },
+    {
+      "id": 205,
+      "cover": "https://i.ibb.co/WVCB5ZS/photo-1615525137689-198778541af6.jpg",
+      "title": "introduction to machine learning",
+      "author": "james wilson",
+      "author_img": "https://randomuser.me/api/portraits/men/79.jpg",
+      "posted_time": "2024-07-28 16:30:00",
+      "hashtags": "#machinelearning #ai #datascience",
+      "reading_time": 15
+    }
+  ]
+  
